@@ -1,0 +1,20 @@
+{
+  "name": "sidath861",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "sidath86",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/sidath86/sidath861.git"
+  }
+}
